@@ -1,0 +1,12 @@
+Flask==3.0.3
+flask-cors==6.0.1
+pandas==2.2.3
+numpy==2.0.2
+jieba==0.42.1
+mysql-connector-python==9.1.0
+selenium==4.33.0
+requests==2.32.3
+tensorflow==2.19.0
+keras==3.10.0
+scikit-learn==1.6.1
+matplotlib==3.9.4 
