@@ -54,6 +54,7 @@
   `mysqldump -u root -p dan > dan.sql`
 - 导入：  
   `mysql -u root -p dan < dan.sql`
+数据库文件过大未上传，可以联系我。
 
 ## 依赖环境
 
@@ -158,3 +159,4 @@
 ---
 
 如有问题请联系项目维护者。 
+email:2969088707@qq.com
