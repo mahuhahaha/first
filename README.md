@@ -137,7 +137,7 @@
 ---
 
 ## 微信小程序端
-
+本项目的前端代码请见：[mahuhahaha/txsp-wp](https://git.weixin.qq.com/mahuhahaha/txsp-wp)
 - 目录：`wechat_miniprogram/`
 - 主要页面：
   - 首页（index）：视频作品列表、搜索、类型筛选
